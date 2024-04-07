@@ -1,7 +1,7 @@
 {
-  "name": "rabya759_currency_converter",
+  "name": "rabyachohan_currency_converter",
   "version": "1.0.1",
-  "description": "",
+  "description": "Currency Converter",
   "main": "main.js",
   "type": "module",
   "bin": "main.js",
