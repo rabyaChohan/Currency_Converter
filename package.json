@@ -1,6 +1,6 @@
 {
   "name": "rabyachohan_currency_converter",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "Currency Converter",
   "main": "main.js",
   "type": "module",
